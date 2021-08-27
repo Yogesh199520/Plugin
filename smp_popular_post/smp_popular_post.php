@@ -4,7 +4,7 @@
  * 
  * @link              https://slicemypage.com/
  * @since             1.0.0
- * @package           smp_popular_past
+ * @package           smp_popular_p0st
  *
  * @wordpress-plugin
  * Plugin Name:       SMP popular Post
@@ -16,7 +16,7 @@
  * Author URI:        https://slicemypage.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       smp-popular-past
+ * Text Domain:       smp-popular-post
  * Domain Path:       /languages
  */
 
