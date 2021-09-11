@@ -1,0 +1,21 @@
+.smpnav.smpnav-skin-light{font-size:13px;line-height:1.3em;background:#f9f9f9;color:#666;}
+.smpnav.smpnav-skin-light .smpnav-site-title{font-size:30px;text-align:left;padding:40px 25px;font-weight:normal;color:#333;}
+.smpnav.smpnav-skin-light .smpnav-activated-style{color:#fff;background:#007AFF;border-top-color:transparent;border-bottom-color:transparent;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item > .smpnav-target{color:#666;font-size:13px;font-weight:normal;border-top:none;border-bottom:none;text-shadow:none;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item .smpnav-submenu-activation{background:rgba(0,0,0,0.1);color:#555;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item .smpnav-submenu-activation:hover{background:rgba(0,0,0,0.2);color:#eee;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item.smpnav-active > .smpnav-submenu-activation,.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item.smpnav-in-transition > .smpnav-submenu-activation{background:rgba(0,0,0,0.1);color:#eee;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item.smpnav-highlight > .smpnav-target,.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item ul.sub-menu .smpnav-highlight > .smpnav-target{color:#007AFF;background:transparent;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item.smpnav-active > .smpnav-target,.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item.smpnav-in-transition > .smpnav-target{color:#fff;background:#007AFF;border-top-color:transparent;border-bottom-color:transparent;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item.current-menu-item > .smpnav-target,.smpnav.smpnav-skin-light ul.smpnav-menu li.menu-item ul.sub-menu .current-menu-item > .smpnav-target{color:#fff;background:#007AFF;}
+.smpnav.smpnav-skin-light ul.smpnav-menu > li.menu-item > .smpnav-target{text-transform:normal;}
+.smpnav.smpnav-skin-light ul.smpnav-menu > li.smpnav-sub-accordion.current-menu-ancestor > .smpnav-target,.smpnav.smpnav-skin-light ul.smpnav-menu > li.smpnav-sub-shift.current-menu-ancestor > .smpnav-target{color:#fff;background:#007AFF;border-top-color:transparent;border-bottom-color:transparent;}
+.smpnav.smpnav-skin-light ul.smpnav-menu li.smpnav-retract .smpnav-target{background:rgba(0,0,0,0.2);color:#fff;text-transform:normal;font-size:12px;text-align:right;}
+.smpnav.smpnav-skin-light ul.smpnav-menu ul.sub-menu{color:#999;background:#e0e0e0;}
+.smpnav.smpnav-skin-light ul.smpnav-menu ul.sub-menu li.menu-item > .smpnav-target{color:#999;border-width:inherit;border-top-color:transparent;border-bottom-color:transparent;font-weight:normal;font-size:13px;}
+.smpnav.smpnav-skin-light ul.smpnav-menu.smpnav-sub-always ul.sub-menu li.menu-item > .smpnav-target{padding-left:50px;}
+.smpnav.smpnav-skin-light ul.smpnav-menu.smpnav-sub-always ul.sub-menu ul.sub-menu ul.sub-menu li.menu-item > .smpnav-target{padding-left:75px;}
+.smpnav.smpnav-skin-light ul.smpnav-menu.smpnav-sub-always ul.sub-menu ul.sub-menu ul.sub-menu ul.sub-menu li.menu-item > .smpnav-target{padding-left:100px;}
+.smpnav.smpnav-skin-light.smpnav-left-edge{border-right:none;}
+.smpnav.smpnav-skin-light.smpnav-right-edge{border-left:none;}
+.smpnav.smpnav-skin-light.smpnav-nojs ul.smpnav-menu li.menu-item > .smpnav-target:hover,.smpnav.smpnav-skin-light ul.smpnav-menu.smpnav-active-on-hover li.menu-item > .smpnav-target:hover,.smpnav.smpnav-skin-light ul.smpnav-menu.smpnav-active-highlight li.menu-item > .smpnav-target:active{color:#fff;background:#007AFF;border-top-color:transparent;border-bottom-color:transparent;}
