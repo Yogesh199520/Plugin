@@ -4,7 +4,7 @@
  * 
  * @link              https://slicemypage.com/
  * @since             1.0.0
- * @package           smp_popular_p0st
+ * @package           smp_popular_post
  *
  * @wordpress-plugin
  * Plugin Name:       SMP popular Post
