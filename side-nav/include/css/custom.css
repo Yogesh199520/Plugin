@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Gloria+Hallelujah&family=Handlee&family=Homemade+Apple&family=Lato:wght@100;400;700&family=Noto+Sans+HK:wght@100;400&family=Nunito+Sans:wght@200;400;600&family=Nunito:wght@200;400;600&family=Open+Sans:wght@300;600;700&family=Oswald:wght@200;400;500&family=Rajdhani:wght@300;500&family=Roboto+Slab:wght@100;400;600&family=Roboto:wght@100;300;500&family=Secular+One&family=Suez+One&family=Tinos&family=Urbanist:wght@100&display=swap');
+.sub-menu-1{display:none!important;}
+.sub-menu-1.child-menu-item{display:block!important;}
+.sub-menu-2{display:none!important;}
+.sub-menu-3 { display: none !important; }
+.sub-menu-2.child-menu-item{display:block!important;}
+.sub-menu-3.child-menu-item{display:block!important;}
+.sub-menu-1.child-menu-item{border-top:1px solid #000;}
+.sub-menu-2.child-menu-item{border-top:1px solid #000;}
+.sub-menu-3.child-menu-item{border-top:1px solid #000;}
+.dropdown-menu .fa-plus:before{content:"\f067";position:absolute;top:22px;left:5px;}
+button.sub-menu-toggle{display:none;}
+.dropdown-menu .fa.fa-minus{position:absolute;top:22px;left:5px;}
